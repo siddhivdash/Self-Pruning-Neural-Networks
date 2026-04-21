@@ -147,8 +147,3 @@ tqdm
 
 ---
 
-## References
-
-- Han et al., "Learning both Weights and Connections for Efficient Neural Networks" (2015)
-- Louizos et al., "Learning Sparse Neural Networks through L0 Regularization" (2018)
-- The L1 sparsity via gating approach is inspired by soft-thresholding in compressed sensing

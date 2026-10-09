@@ -65,8 +65,8 @@ self-pruning-nn/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/self-pruning-nn.git
-cd self-pruning-nn
+git clone https://github.com/siddhivdash/Self-Pruning-Neural-Networks.git
+cd Self-Pruning-Neural-Networks
 pip install -r requirements.txt
 ```
 

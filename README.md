@@ -2,7 +2,7 @@
 
 A neural network that **learns to prune itself during training** using learnable gate parameters — no post-training pruning required.
 
-Built as part of the Tredence AI Engineering Internship Case Study.
+Built for the Tredence AI Engineering internship case study
 
 ---
 
